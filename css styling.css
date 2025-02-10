@@ -1,0 +1,42 @@
+/* Page 1 Styling */
+body {
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+}
+
+h2 {
+    text-align: center;
+}
+
+.input-container {
+    margin: 20px;
+}
+
+label {
+    font-size: 18px;
+}
+
+.submit-btn {
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    margin: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+.submit-btn:hover {
+    background-color: darkblue;
+}
+
+/* Page 2 Styling */
+.thankyou-page {
+    background-color: lightgray;
+    text-align: center;
+}
+
+img {
+    width: 50%;
+    display: block;
+    margin: 20px auto;
+}
